@@ -39,5 +39,5 @@ Arduino-based automatic solar switching system.
 
 ## 📫 Connect With Me
 
-LinkedIn: [Add your LinkedIn link]
-Email: [Add your email]
+LinkedIn: [www.linkedin.com/in/vidyashri-vanahalli-b6b0012a0]
+Email: [vidyashrivanahalli@gmail.com]
